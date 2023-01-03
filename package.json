@@ -1,0 +1,26 @@
+{
+  "name": "erc20-token-bridge",
+  "version": "1.0.0",
+  "description": "Decentralized token bridge between Ethereum and Binance Smart Chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advance-Solidity/ERC20-token-bridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advance-Solidity/ERC20-token-bridge/issues"
+  },
+  "homepage": "https://github.com/Advance-Solidity/ERC20-token-bridge#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
